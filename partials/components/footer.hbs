@@ -17,10 +17,13 @@
         <p>
           <small>All rights reserved</small>
         </p>
-        <i class="fa-brands fa-instagram">Insta</i>
-        <i class="fa-regular fa-envelope">Email</i>
+
+            {{> "components/social-media"}}
+
       {{else}}
         {{footerText}}
+        {{> "components/social-media"}}
+        <i class="fa-brands fa-linkedin"></i>
       {{/unless}}
     </div>
   </div>
