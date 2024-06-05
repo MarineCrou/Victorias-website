@@ -71,10 +71,8 @@ body {
   #gh-head.is-head-open .gh-burger::after,
   #gh-head.is-head-open .gh-burger::before {
     background-color: var(--color-black);
-    /* max-width: fit-content; */
   }
 }
-
 /* Header */
 
 .gh-header {
