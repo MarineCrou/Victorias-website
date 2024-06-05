@@ -148,6 +148,12 @@ body {
   }
 }
 
+/* home page content */
+
+#home-title {
+  text-align: center !important;
+}
+
 /* Podcast services */
 
 .gh-podcast-service-list {

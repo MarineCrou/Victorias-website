@@ -946,6 +946,7 @@ blockquote.kg-blockquote-alt {
 }
 .kg-card.kg-button-card .kg-btn {
   font-size: 1em;
+  margin: 50px 20px 0 20px;
 }
 .has-serif-body .kg-header-card h3.kg-header-card-subheader,
 .has-serif-title .kg-card.kg-header-card h2.kg-header-card-header {
@@ -1378,6 +1379,7 @@ figcaption a {
   color: #15171a !important;
   display: block;
   padding: 6px 20px;
+  text-wrap: wrap;
 }
 .is-dropdown-mega .gh-dropdown li a {
   padding: 8px 0;
@@ -1640,8 +1642,8 @@ figcaption a {
   border: 0;
 }
 .gh-header[class*="has-background"] .gh-header-button {
-  background-color: #fff;
-  color: #15171a;
+  background-color: #15171a;
+  color: #fff;
 }
 .gh-header.has-background-image:before {
   background-color: #15171a;
