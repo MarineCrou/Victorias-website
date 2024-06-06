@@ -151,7 +151,7 @@ body {
 /* home page content */
 
 #home-title {
-  text-align: center !important;
+  padding: 70px 150px 0 150px;
 }
 
 /* Podcast services */

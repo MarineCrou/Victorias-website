@@ -945,9 +945,16 @@ blockquote.kg-blockquote-alt {
   font-weight: 400;
 }
 .kg-card.kg-button-card .kg-btn {
-  font-size: 1em;
-  margin: 50px 20px 0 20px;
+  font-size: 0.8em;
+  margin: 100px 20px 0 20px;
 }
+
+.kg-button-card {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
 .has-serif-body .kg-header-card h3.kg-header-card-subheader,
 .has-serif-title .kg-card.kg-header-card h2.kg-header-card-header {
   font-family: var(--font-serif);
@@ -1071,7 +1078,34 @@ figcaption a {
   .gh-archive-inner {
     grid-template-columns: 1fr;
   }
+
+  /* Buttons on Home Page */
+  .kg-button-card {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+  }
+
+  .kg-button-card a {
+    width: 60%;
+  }
+
+  .kg-card.kg-button-card .kg-btn {
+    font-size: 0.8em;
+    margin: 20px 20px;
+    text-align: center;
+  }
+  .kg-button-card,
+  .kg-button-card a.kg-btn {
+    display: flex;
+    position: static;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
 }
+
 .gh-head {
   height: 100px;
 }
