@@ -29,6 +29,7 @@ Given these needs, I chose Ghost.io as the hosting platform. This solution allow
   - **Resources Page:** A collection of blog posts and podcast episodes.
 - **Blog Integration:** The blog is hosted on the website, allowing the client to add new articles autonomously.
 - **Tailored Templates:** Custom templates tailored to the client's needs, using Ghost's Local Host Edits.
+- **Responsive**: Adaptable to desktop, mobile and tablets
 
 ## Technologies Used
 
@@ -90,9 +91,9 @@ To customize the website templates:
 ## Screenshots
 Include screenshots of different parts of the website here. For example:
 
-### Home Page:
+#### Home Page:
 
-Home Page: <img width="1511" alt="Screenshot 2024-07-09 at 16 57 46" src="https://github.com/MarineCrou/Victorias-website/assets/140711953/63266971-59ff-43f8-8f74-2022956c3306">
+<img width="1511" alt="Screenshot 2024-07-09 at 16 57 46" src="https://github.com/MarineCrou/Victorias-website/assets/140711953/63266971-59ff-43f8-8f74-2022956c3306">
 <img width="1441" alt="Screenshot 2024-07-09 at 16 58 18" src="https://github.com/MarineCrou/Victorias-website/assets/140711953/b4a4f460-9820-456e-986a-53e886095fa3">
 
 
