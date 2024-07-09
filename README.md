@@ -12,9 +12,9 @@ https://victoria-valroff.ghost.io/
 - [Customization](#customization)
 
 ## Client Requirements
-My client's requirements were clear: she wanted to be able to edit the content (images and text) of her website easily. She requested a multi-page website featuring an "About Me" page, individual pages for each of her coaching targets (individuals, organizations, and CEOs), and a resources page for her blog posts and podcasts. Additionally, she wanted the ability to host her blog on the website and add new articles independently.
+My client's requirements were straightforward: she wanted to be able to edit the content (images and text) of her website easily. She requested a multi-page website that includes an "About Me" page, individual pages for each of her coaching targets (individuals, organizations, and CEOs), and a resources page featuring her blog posts and podcasts. Additionally, she wanted to host her blog on the website and add new articles independently.
 
-Based on her specific needs, I chose Ghost.io as the hosting platform. This solution allowed the client to manage the website autonomously once it was set up. It also provided me with the flexibility to customize the website through their Local Host Edits feature, enabling me to code and tailor the templates to meet her requirements precisely.
+Given these needs, I chose Ghost.io as the hosting platform. This solution allowed the client to manage the website autonomously once it was set up. Ghost.io also provided me with the flexibility to customize the website using their Local Host Edits feature, which enabled me to code and tailor the templates to precisely meet her requirements.
 
 ## Features
 
