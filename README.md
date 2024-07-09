@@ -42,16 +42,37 @@ This repository contains the code and configuration for a professional coach's m
 
 1. Clone the repository:
    ```git clone https://github.com/your-username/professional-coach-website.git ```
-   
-2. Navigate to the project directory:
-bash
-Copy code
-cd professional-coach-website
-Install the dependencies:
-bash
-Copy code
-npm install
-Start the Ghost development environment:
-bash
-Copy code
-ghost start
+2. Navigate to the project directory: ```cd professional-coach-website```
+3. Install the dependencies: ```npm install```
+4. Start the Ghost development environment: ```ghost start```
+
+### Deployment
+Log in to your Ghost.io account.
+Navigate to your site settings.
+Upload the theme files or connect to your repository for continuous deployment.
+
+## Usage
+
+### Editing Content
+
+1. Log in to the Ghost admin panel.
+2. Navigate to the page or post you want to edit.
+3. Use the editor to update text, images, or other content.
+4. Save and publish your changes.
+
+### Adding Blog Posts
+
+1. Log in to the Ghost admin panel.
+2. Click on "New Post."
+3. Write your blog post using the editor.
+4. Add any images or media.
+5. Publish the post.
+
+## Customization
+
+### Local Development
+
+To customize the website templates:
+
+1. Navigate to the theme directory: ```cd content/themes/your-theme```
+
